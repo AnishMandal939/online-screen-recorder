@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4dc0933e.css",
-    "main.js": "./static/js/main.b6bd6fcb.js",
+    "main.js": "./static/js/main.4f914f8c.js",
     "worker-xquery.js": "./91f49599a810af1ed0c1a351f14ac99e.js",
     "worker-javascript.js": "./3c9439fce81cf3226f62896ca463e8ca.js",
     "mode-php_laravel_blade.js": "./bd6eedca1a7c1c757465796ddc7effe3.js",
@@ -452,6 +452,6 @@
   },
   "entrypoints": [
     "static/css/main.4dc0933e.css",
-    "static/js/main.b6bd6fcb.js"
+    "static/js/main.4f914f8c.js"
   ]
 }
