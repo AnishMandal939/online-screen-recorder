@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b07e34de.css",
-    "main.js": "./static/js/main.cb537c64.js",
+    "main.css": "./static/css/main.a9b2e7f3.css",
+    "main.js": "./static/js/main.e1e72df2.js",
     "worker-xquery.js": "./91f49599a810af1ed0c1a351f14ac99e.js",
     "worker-javascript.js": "./3c9439fce81cf3226f62896ca463e8ca.js",
     "mode-php_laravel_blade.js": "./bd6eedca1a7c1c757465796ddc7effe3.js",
@@ -41,7 +41,6 @@
     "ext-prompt.js": "./0c181adaf6fd4d6841e860fc0a5c64c6.js",
     "ext-inline_autocomplete.js": "./7af7c9858330d822c3750cd7485d4d0e.js",
     "mode-objectivec.js": "./a2ab4c99a92a2bae95882a1b9299abf4.js",
-    "static/media/anish.png": "./static/media/anish.045ec44014b5e9980538.png",
     "mode-jade.js": "./633c938619cd4e7ffcd0610bf9faa396.js",
     "mode-haml.js": "./e43fb8d8bc1621bccce93b7f7600df07.js",
     "worker-lua.js": "./c4e1812b01dcf14f11e8b553051eb7e3.js",
@@ -452,7 +451,7 @@
     "mode-text.js": "./0ffb18fb70c87335edee31a479f58a43.js"
   },
   "entrypoints": [
-    "static/css/main.b07e34de.css",
-    "static/js/main.cb537c64.js"
+    "static/css/main.a9b2e7f3.css",
+    "static/js/main.e1e72df2.js"
   ]
 }
